@@ -3,28 +3,21 @@ layout: default
 title: Hello
 ---
 
+## Hi!
+I am Koena; thanks for stopping by! I am a math major at [UWaterloo](https://uwaterloo.ca/), and enjoy exploring cities, 
+thoughts, and ideas. I've lived in Dubai, Halifax, Toronto and Waterloo. I am currently working with 
+data at [RBC](https://www.rbcinsurance.com/en-ca/about/). I'm interested in data, biology, history,
+and especially where these things collide. 
 
-## An easy to use, minimal, text focused Jekyll theme
+### *Previously...*
+- Operations at [RBC](https://www.rbc.com/about-rbc.html)
+- Community building at [UWaterloo](https://uwaterloo.ca/students/campus-life/connection-collective)
+- Project Management at [GLOCAL](https://glocalfoundation.ca/)
 
-[Bear Blog](https://bearblog.dev/) is *"a blogging platform where words matter most"*. 
+#### Currently Reading: 
+Strange Weather in Tokyo by Kawakami Hiromi. 
 
-This is a port of it's theme to Jekyll, with some tweaks. So you can use GitHub Pages to host your blog while getting the same awesome Bear Blog feels.
-
-**Stop worrying about the style, focus on your writing.**
-
-- Looks great on *any* device
-- Tiny, optimized, and awesome pages
-- No trackers, ads, or scripts, *did I mention minimal already?*
-- Auto light and dark themes
-- Tag support, to filter blog pages
-- Quick, *15 minute* setup
-- Gallery view for your images
-- Code highlighting
-
-Have a look around, this website is already themed with **jekyllBear**. If you like it, head over to the GitHub [repository](https://github.com/knhash/jekyllBear) for installation instructions.
-
-#### New: Life in Weeks Interactive Timeline
-
-- Visualize your life weeks, inspired by [Wait But Why](https://waitbutwhy.com/2014/05/life-weeks.html) and [Buster Benson](https://busterbenson.com/life-in-weeks/) and cycle through key events with up/down arrows.
-
-Try it on the [Life in Weeks](https://knhash.in/jekyllBear/life) page!
+## Batsignal
+I love meeting new people, whether it is to chat about mutual interests, or to learn about whatever it is 
+you geek out on. Although  I can't guarantee an immediate reply, I'll try to get back as soon as I can. I invite 
+you to reach out using the links above!

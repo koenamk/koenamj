@@ -1,8 +1,8 @@
 ###########
 # site.title
 
-title: jekyllBear
-description: a minimal, text focused blog theme
+title: Koena's Garden
+description: a garden of thoughts, ideas, and musings.
 # baseurl: "/jekyllBear" # the subpath of your site, e.g. /blog/
 url: "https://knhash.in/jekyllBear" # the base hostname & protocol for your site
 # host: 0.0.0.0
@@ -46,7 +46,7 @@ defaults:
 
 # baseurl: ""
 permalink: /blog/:slug
-timezone: America/New_York
+timezone: America/Toronto
 future: false
 
 exclude:
@@ -55,12 +55,16 @@ exclude:
 
 exclude: [vendor]
 
-Blog: /blog
-Life: /life
+# Blog: /blog
+# Life: /life
 
 # Add general links to site pages here
 links:
   # Resume: /assets/resume.pdf
+  Work: /work/
+  Fun: /fun/
+  Twitter: https://x.com/koenamukherjee_
+  LinkedIn: https://www.linkedin.com/in/koenam/ 
   
 
 # Add links for more focus here
