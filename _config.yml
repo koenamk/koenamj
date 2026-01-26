@@ -63,7 +63,7 @@ exclude: [vendor]
 links:
   # Resume: /assets/resume.pdf
   Work: /work/
-  Fun: /fun/
+  Play: /play/
   Twitter: https://x.com/koenamukherjee_
   LinkedIn: https://www.linkedin.com/in/koenam/ 
   GitHub: https://github.com/koenamk 

@@ -6,22 +6,126 @@ permalink: /work/
 
 ### Public-facing Resume
 
-- **Connection Lead** at [UWaterloo](https://uwaterloo.ca/students/campus-life/connection-collective)  
-    *May 2024 - Present*
-- **Data Analyst Intern** at [RBC Insurance](https://www.rbcinsurance.com/en-ca/about/)  
-    *Jan 2026 - Apr 2026*
-- **Operational Risk Intern** at [RBC](https://www.rbc.com/about-rbc.html)  
-    *May 2025 - Aug 2025*
-- **Project Manager** at [GLOCAL Canada](https://glocalfoundation.ca/)  
-    *May 2024 - Aug 2024*
+<div>
+    <details>
+        <summary><b>Data Analyst Intern at <a href="https://www.rbcinsurance.com/en-ca/about/">RBC Insurance</a></b>
+        <small>Jan 2026 - Apr 2026</small>
+        </summary>
+        <br>
+    
+    </details>
+</div>
 
-### Fun Resume
+<div>
+    <details>
+        <summary><b>Connection Lead at <a href="https://uwaterloo.ca/students/campus-life/connection-collective">UWaterloo</a></b>
+        <small>May 2024 - Present</small>
+        </summary>
+        <br><ul>
+        <li>Created an ‘Expectations vs. Reality’ workshop for incoming first year students, meant to be engaging and humourous. Delivered in a webinar format, and had around 75 participants who could join the EST timezone, with a lot of engagement and positive feedback. </li>
+        <li> Communication- conducted weekly check-ins with 120+ students from diverse backgrounds, through Microsoft Teams, supporting transitions and advocating for mental health awareness within the community throughout the year. </li>
+        <li> Event planning and execution- we do biweekly events for students well-being, including presentations and activities to foster student engagement and cultivate a supportive environment. </li>
+        <li> Along with our supervisor, and as connection leads, we aimed to make our workspace a safe environment, believing that by having a strong internal culture, we will be able to encourage a positive campus culture wherever we go, as a team and as individuals, throughout our lives. </li>
+    </ul></details>
+</div>
 
-- **The Human Library**, UWaterloo version  
-    *May 2025, associated with being a Connection Lead*
-- **PCOSight**  
-    *Oct 2024, team project*
-- **Fintech and Rise of Digital Assets** with RBC  
-    *Aug 2024, team project*
-- **Ball Kid** at [Dubai Duty Free Tennis Championships](https://dubaidutyfreetennischampionships.com/)  
-    *Sep 2016 - Feb 2020*
+<div>
+    <details>
+        <summary><b>Operational Risk Intern at <a href="https://www.rbc.com/about-rbc.html">RBC</a></b>
+        <small>May 2025 - Aug 2025</small>
+        </summary>
+        <br>
+    
+    </details>
+</div>
+
+<div>
+    <details>
+        <summary><b>Project Manager at <a href="https://glocalfoundation.ca/">GLOCAL Canada</a></b>
+        <small>May 2024 - Aug 2024</small>
+        </summary>
+        <br>
+    
+    </details>
+</div>
+
+### For the Community and More…
+
+<div>
+    <details>
+        <summary><b>The Human Library, UWaterloo Version</b> 
+        <small>May 2025, associated with being a Connection Lead</small></summary>
+        <br>
+        <p> In February 2024, I found <a href="https://humanlibrary.org/about/">inspiration</a> for this project while doomscrolling on Instagram. I came across a reel about an event hosted in Denmark, and the motto to ‘unjudge someone’ resonated with me. In a world where peace is fragile and we are quick to distrust others, relying ever-more on the very stereotypes we’ve tried so hard to break down over the decade, I found that this idea was profound and perhaps more necessary than ever before. So, I decided, why not we do a UWaterloo version of it? From here, I quickly pitched the idea to my supervisor, and in many ways, a mentor and friend, Tara Kleinsteuber. With her support, along with Fantasia Gunn, and the rest of the Connection Collective team at large, I was able to start turning this idea into reality. The goal, taken verbatim from my invitation to our guests, “to provide a space where open dialogue can challenge assumptions, encourage empathy, and help students connect with perspectives they may not otherwise encounter in their daily lives.” </p>
+        <p> We hosted the event in the Black & Gold Room in SLC on May 22, 2025. We invited members of the community to share their perspective and engage in this event as a ‘human book’. During our 2-hour event, we had students drop-in, and all of our guests were engaged in conversations for the entire event. When the time was up, everyone felt as if no time had flown by at all, and didn’t want to end their conversations. Our feedback showed that guests and students left feeling lighter from their conversations, and other gained connections, and a few, a new friend! </p>
+        <p>I learned many things from building out this idea, and I’ve listed some of these below:</p>
+        <ul>
+        <li> There are so many things to be mindful about when trying to host an event. Some key things we kept in mind were accessibility, flexibility to have shorter conversations as well as longer ones, the option to not have to speak up and simply listen, and being mindful about people’s perspectives and lived experiences. It may be different to what you’ve believed in so far, and it may challenge some of your core beliefs, but that’s the purpose of this event: to challenge those beliefs in a safe environment. </li>
+        <li> As with any event, marketing is invaluable to bring attention to your idea. Not hesitating to ask the right people and groups to get your event out there is something I learned while building this. </li>
+        <li> Even if something like this has been done in various places across the world, the version you create will require unique adjustments because every set of people and circumstances are different. </li>
+        <li> I paid a lot of attention to how the room’s seating areas would be arranged- this is very important, especially in an event centered around the people themselves. Some things we kept in mind were comfortable seating (a non-negotiable, of course), snacks and warm drinks, a light jazz playlist, natural and ambient evening lighting for later, and, organising the tables and chairs to take off the pressure from moving around (the purpose of the event was to have conversations with people, and we wanted to give people the opportunity to be able to move around and engage with someone they were interested in talking to). </li>
+        <li> Ensuring that people treated each other as equals; not  students, professors, social workers, or other identities that they carry around in daily lives. </li>
+        <li> The team that you work with to bring your idea to life is invaluable. It is very possible that your enthusiasm may not be reciprocated, and it is often what leads to that idea being lost or poorly executed. I am extremely lucky to be surrounded by such a great set of people, and for Tara, to give me all the courage I needed to pursue this. </li>
+        </ul>
+        If you ever find yourself having the opportunity to attend a Human Library, I encourage you to take it! Also, if you plan on organising one and require any help/ideas, feel free to reach out!
+    </details>
+</div>
+
+<div>
+    <details>
+        <summary><b>Intro. to Quantum Physics</b> 
+        <small>Winter 2025</small></summary>
+        <br>
+
+    </details>
+</div>
+
+<div>
+    <details>
+        <summary><b>PCOSight</b>
+        <small>Oct 2024, team project</small>
+        </summary>
+        <br>
+
+    </details>
+</div>
+
+<div>
+    <details>
+        <summary><b>AI and Ethics: An Exploration</b>
+        <small>Sep 2024, team project associated with being a Connection Lead</small>
+        </summary>
+        <br>
+    
+    </details>
+</div>
+
+<div>
+    <details>
+        <summary><b>Fintech and Rise of Digital Assets with RBC</b>
+        <small>Aug 2024, team project</small>
+        </summary>
+        <br>
+
+    </details>
+</div>
+
+<div>
+    <details>
+        <summary><b>Ball Kid at <a href="https://dubaidutyfreetennischampionships.com/">Dubai Duty Free Tennis Championships</a></b>
+        <small>Sep 2016 - Feb 2020</small>
+        </summary>
+        <br>
+    
+    </details>
+</div>
+
+<!--- <div>
+    <details>
+        <summary><b></b>
+        <small></small>
+        </summary>
+        <br>
+    
+    </details>
+</div> --->
