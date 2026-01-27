@@ -210,7 +210,7 @@ of the list, just including the ones I recommend.
 
   <a href="#" class="travel-card">
     <span class="date">Multiple</span>
-    <h3>Shillong, Meghalaya</h3>
+    <h3>Shillong, India</h3>
     <p>India’s northeast is breathtaking. Located on the Eastern Himalayas’ foothills, 
     explore the state of Meghalaya. One of my fav places in India.</p>
   </a>
