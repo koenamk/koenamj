@@ -124,7 +124,7 @@ permalink: /work/
     <li> Led the prototype website and market research; project was presented to physicians and femtech founders and received a special mention from Autocate. </li>
     </ul>
 
-    <p><i>The Longer Version</i></p>
+    <p><b>The Longer Version</b></p>
 
     <b>Background</b>
 
