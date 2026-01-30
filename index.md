@@ -24,4 +24,4 @@ Strange Weather in Tokyo by Kawakami Hiromi.
 ## Batsignal
 I love meeting new people, whether it is to chat about mutual interests, or to learn about whatever it is 
 you geek out on. Although  I can't guarantee an immediate reply, I'll try to get back as soon as I can. I invite 
-you to reach out using the links above!
+you to reach out using the social links above!

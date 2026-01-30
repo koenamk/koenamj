@@ -101,39 +101,39 @@ try and list them in the order I've read them in. For now, as I build out this w
 of the list, just including the ones I recommend. 
 
 ### 2026
-- Shogun by James Clavell
+- James Clavell, *Shogun*
 
 ### 2025
-- Fyodor Dostoyevsky, The Brothers Karamazov
-- Robert K. Massie, Catherine the Great (gifted by a friend)
-- Homer (Lombardo translation), Iliad
-- Seneca, Letters from a Stoic
-- Kenneth W. Ford, The Quantum World – Quantum Physics for Everyone 
+- Fyodor Dostoyevsky, *The Brothers Karamazov*
+- Robert K. Massie, *Catherine the Great* (gifted by a friend)
+- Homer (Lombardo translation), *Iliad*
+- Seneca, *Letters from a Stoic*
+- Kenneth W. Ford, *The Quantum World – Quantum Physics for Everyone *
 
 ### 2024
-- Viktor Frankl, Man's Search for Meaning
-- Milan Kundera, The Unbearable Lightness of Being
-- Khaled Hosseini, A Thousand Splendid Suns
-- Brianna Wiest, 101 Essays That Will Change The Way You Think
-- Niccolò Machiavelli, The Prince
-- Ishiguro Kazuo, Never Let Me Go
-- Murasaki Shikibu, The Tale of Genji
-- Ursula Le Guin, Books of Earthsea
-- Cal Newport, Deep Work
-- Marcus Aurelius, Meditations
+- Viktor Frankl, *Man's Search for Meaning*
+- Milan Kundera, *The Unbearable Lightness of Being*
+- Khaled Hosseini, *A Thousand Splendid Suns*
+- Brianna Wiest, *101 Essays That Will Change The Way You Think*
+- Niccolò Machiavelli, *The Prince*
+- Ishiguro Kazuo, *Never Let Me Go*
+- Murasaki Shikibu, *The Tale of Genji*
+- Ursula Le Guin, Books of Earthsea (a series)
+- Cal Newport, *Deep Work*
+- Marcus Aurelius, *Meditations*
 
 ### 2023
 
-- George Orwell, 1984
-- Susanna Clarke, Piranesi
-- Gabriel García Márquez, 100 Years of Solitude
+- George Orwell, *1984*
+- Susanna Clarke, *Piranesi*
+- Gabriel García Márquez, *100 Years of Solitude*
 
 ### High school and earlier
 
-- Margaret Atwood, The Handmaid’s Tale
-- Amor Towles, A Gentleman in Moscow
-- Marjane Satrapi, Persepolis
-- Khaled Hosseini, The Kite Runner
+- Margaret Atwood, *The Handmaid’s Tale*
+- Amor Towles, *A Gentleman in Moscow*
+- Marjane Satrapi, *Persepolis*
+- Khaled Hosseini, *The Kite Runner*
 
 <hr>
 
@@ -202,7 +202,7 @@ of the list, just including the ones I recommend.
   </a>
 
   <a href="#" class="travel-card">
-    <span class="date">Dec 2025</span>
+    <span class="date">Aug 2016</span>
     <h3>Singapore</h3>
     <p>A green, well-connected city. Loved the multicultural identity 
     and how it continues to build around it.</p>

@@ -59,9 +59,18 @@ permalink: /work/
   
   <div style="padding-top: 10px;">
 
-    <p> In February 2024, I found <a href="https://humanlibrary.org/about/">inspiration</a> for this project while doomscrolling on Instagram. I came across a reel about an event hosted in Denmark, and the motto to ‘unjudge someone’ resonated with me. In a world where peace is fragile and we are quick to distrust others, relying ever-more on the very stereotypes we’ve tried so hard to break down over the decade, I found that this idea was profound and perhaps more necessary than ever before. So, I decided, why not we do a UWaterloo version of it? From here, I quickly pitched the idea to my supervisor, and in many ways, a mentor and friend, Tara Kleinsteuber. With her support, along with Fantasia Gunn, and the rest of the Connection Collective team at large, I was able to start turning this idea into reality. The goal, taken verbatim from my invitation to our guests, “to provide a space where open dialogue can challenge assumptions, encourage empathy, and help students connect with perspectives they may not otherwise encounter in their daily lives.” </p>
-    <p> We hosted the event in the Black & Gold Room in SLC on May 22, 2025. We invited members of the community to share their perspective and engage in this event as a ‘human book’. During our 2-hour event, we had students drop-in, and all of our guests were engaged in conversations for the entire event. When the time was up, everyone felt as if no time had flown by at all, and didn’t want to end their conversations. Our feedback showed that guests and students left feeling lighter from their conversations, and other gained connections, and a few, a new friend! </p>
+    <p><b>Summary</b></p>
+    <ul><li>Initiated and led a Human Library–style event at UWaterloo, pitching the concept, coordinating stakeholders, and designing an inclusive, accessible space for open dialogue and community engagement.</li>
+    <li>Gained hands-on experience in event strategy, stakeholder buy-in, marketing, user-centered design, and leading cross-functional teams to execute a high-impact initiative.</li></ul>
+
+    <p><b>The Long Story</b></p>
+
+    <p> In February 2024, I found <a href="https://humanlibrary.org/about/">inspiration</a> for this project while doomscrolling on Instagram. I came across a reel about an event hosted in Denmark, and the motto to ‘unjudge someone’ resonated with me. In a world where peace is fragile, people quick to distrust others and relying ever-more on the very stereotypes we’ve tried so hard to break down over the decade, I found that this idea was profound and perhaps more necessary than ever before. I thought, why don't we host our own UWaterloo version of it? From here, I quickly pitched the idea to my supervisor, and in many ways, a mentor and friend, Tara Kleinsteuber. With her support, along with Fantasia Gunn, and the rest of the Connection Collective team at large, I was able to turn this idea into reality. The goal, taken verbatim from my invitation to our guests, was “to provide a space where open dialogue can challenge assumptions, encourage empathy, and help students connect with perspectives they may not otherwise encounter in their daily lives.” </p>
+
+    <p> We hosted the event in the Black & Gold Room in SLC on May 22, 2025, inviting members of the community to share their perspective and engage in this event as ‘human books'. During our 2-hour event, we had students who had registered prior to the event, plus folks who dropped in, engage in conversation with our guests. When our event came to an end and I had to pull everyone's attention back, people felt as if no time had flown by at all, and wished for a longer event since nobody wanted to end their conversations. As organisers, we gave some time back from the closing remarks after guests voiced their wish to continue for a bit longer, and at that moment, I felt that the event had achieved its intended purpose. After our closing remarks and a brief conversation circle, guests and students alike shared how the conversation brought forth their humanity and empathy, qualities and feelings that are not frequently championed in our reality. Further feedback received showed that guests and students left feeling lighter from their conversations, and others gained connections, and a few, even a new friend! </p>
+
     <p>I learned many things from building out this idea, and I’ve listed some of these below:</p>
+
     <ul>
     <li> There are so many things to be mindful about when trying to host an event. Some key things we kept in mind were accessibility, flexibility to have shorter conversations as well as longer ones, the option to not have to speak up and simply listen, and being mindful about people’s perspectives and lived experiences. It may be different to what you’ve believed in so far, and it may challenge some of your core beliefs, but that’s the purpose of this event: to challenge those beliefs in a safe environment. </li>
     <li> As with any event, marketing is invaluable to bring attention to your idea. Not hesitating to ask the right people and groups to get your event out there is something I learned while building this. </li>
@@ -70,7 +79,8 @@ permalink: /work/
     <li> Ensuring that people treated each other as equals; not  students, professors, social workers, or other identities that they carry around in daily lives. </li>
     <li> The team that you work with to bring your idea to life is invaluable. It is very possible that your enthusiasm may not be reciprocated, and it is often what leads to that idea being lost or poorly executed. I am extremely lucky to be surrounded by such a great set of people, and for Tara, to give me all the courage I needed to pursue this. </li>
     </ul>
-    If you ever find yourself having the opportunity to attend a Human Library, I encourage you to take it! Also, if you plan on organising one and require any help/ideas, feel free to reach out!
+
+    <p>If you ever find yourself having the opportunity to attend a Human Library, I encourage you to take it! Also, if you plan on organising one and require any help/ideas, feel free to reach out!</p>
 
   </div>
 </details>
@@ -83,7 +93,7 @@ permalink: /work/
   </summary>
   
   <br>
-  <p>I took notes while reading <i>The Quantum World</i> by Kenneth W. Ford. Click the image to view in full detail.</p>
+  <p>I was fascinated by the subatomic world and decided I needed to know more. So while I read <i>The Quantum World</i> by Kenneth W. Ford, I made some notes in the form of a mind map. Click the image to view in full detail.</p>
 
   <a href="{{ '/assets/images/quantum_physics.png' | relative_url }}" target="_blank" title="Open full size">
       <img src="{{ '/assets/images/quantum_physics.png' | relative_url }}" 
@@ -105,7 +115,31 @@ permalink: /work/
     PCOSight
     <small>Oct 2024, team project</small>
   </summary>
-  
+
+    <b>Summary</b>
+
+    <ul>
+    <li> Participated in the Fall 2024 Femtech Innovation Challenge by Velocity, working with biomedical and nanotechnology engineers. </li>
+    <li> Built and researched a proposed solution to reduce PCOS diagnosis times in Canada by combining a prototype website with subsidized at-home blood testing and faster specialist matching. </li>
+    <li> Led the prototype website and market research; project was presented to physicians and femtech founders and received a special mention from Autocate. </li>
+    </ul>
+
+    <p><i>The Longer Version</i></p>
+
+    <b>Background</b>
+
+    <p> Participated in the Femtech Innovation Challenge organised by Velocity in Fall 2024, and formed a team with passionate biomedical and nanotechnology engineers. ‘Femtech’ refers to feminine medical technology, and the industry surrounding it. Prior to doing this project, I was vaguely aware of the bias and discrimination towards females in medical research and technology. In the beginning, I could only recall the example that women were more likely to get fatally injured in a car accident because cars were designed and tested for males. However, as I got acquainted with the problem space, I realised that the discrimination we faced wasn’t only present in the auto industry. It was also glaringly prominent in medical research and institutions. From medicines to research and devices used for routine examinations, things are outdated or otherwise simply missing from entire frameworks. One of the issues that devices used for women-specific routine examinations are still manufactured on a 1930’s-design, alongside many other areas of research (such as dementia, PCOS, etc.) are missing/poorly-understood is because the space is severely underfunded due to taboo, discrimination and inherent biases that most people don’t care about. And that was one of the issues Velocity and UWaterloo are trying to bring awareness to. </p>
+
+    <b>Goal</b>
+
+    <p> The goal of this project was to bridge that gap between women and the standard medical care we should rightfully receive. The issue we focused on as a team was the poor diagnosis process of PCOS and other related disorders/diseases. The average time it takes to receive a PCOS diagnosis in Canada is 4.3 years<sup>1</sup>. This, coupled with the fact that approx. 1 in 10 women face this issue and it severely impacts quality of life (there is also no proper treatment for this), made it an issue amongst others that my team and I wanted to tackle. </p>
+
+    <b>How it went</b>
+
+    <p>Our project was quite ambitious against the face of the Canadian healthcare system, but we tried to work our way around the different roadblocks we faced. Our idea was to build a website + testing kit that was partially subsidised by OHIP which quickly matched patients with specialist doctors for a consultation after the blood test (a home kit that would be posted to the nearest community lab). I was responsible for building a prototype website and do the market research to understand what solutions existed currently, and how we could position our product better. One of the issues we ran into was the pricing of the product. We wanted it to be as cost-effective as possible for customers, especially owing to the fact that most of our customers would be around the age of 18-24 years old (the average age of diagnosis in Canada). We presented this project to the judges of the competition, ranging from doctors and other founders in the femtech space. Got a special mention from Autocate!</p>
+
+    <sup>1</sup>Sydora, Beate C et al. “Challenges in diagnosis and health care in polycystic ovary syndrome in Canada: a patient view to improve health care.” *BMC women's health* vol. 23,1 569. 4 Nov. 2023, doi:10.1186/s12905-023-02732-2
+
   <div style="padding-top: 10px;">
 
   </div>
@@ -116,10 +150,27 @@ permalink: /work/
     AI and Ethics: An Exploration
     <small>Sep 2024, associated with being a Connection Lead</small>
   </summary>
-  
-  <div style="padding-top: 10px;">
 
-  </div>
+    <b>Summary</b>
+
+    <ul>
+    <li> Co-led an internal workshop on how we actually use AI at Connection Collective, covering real workflows like meeting summaries, event planning, and drafting communications, plus where human judgment still matters.</li>
+    <li> Built and presented practical guidelines on using AI without losing personal voice, creativity, or trust, drawing from hands-on experience mentoring students and running programs. </li>
+    </ul>
+
+    <p><b>The <small>slightly</small> Longer Version</b></p>
+    <p> <a href="https://www.linkedin.com/in/sukhmanimukkar/">Sukhmani Mukkar</a> and I teamed up to do a workshop/presentation to our team of connection leads to discuss the use of AI in the workplace. Our key takeaways were, “Identifying the role of AI in our lives: personal and professional.” and “Striking a balance between our personalities, and the use of AI.” As Connection Leads, some of our responsibilities include creating content for workshops and events, striking meaningful conversations with first-year students, and playing the role of a mentor. We use AI to summarise our meetings, plan events, and draft emails. However, as people working to increase human interaction and community, it is necessary for us to add an element of humanity to our work. </p>
+
+    <p>Throughout our workshop, we touched on topics such as creativity, opened the floor to discussion about the trade-off between using AI, efficiency, and work produced by humans. We ended our workshop by giving tips that we have tried and tested, in order to build what many would call a ‘personal brand’ or ‘style’.</p>
+
+  <br>
+  <p>A snapshot of our workshop!</p>
+
+  <a href="{{ '/assets/images/ai_presentation.png' | relative_url }}" target="_blank">
+      <img src="{{ '/assets/images/ai_presentation.png' | relative_url }}" 
+           style="width: 100%; border-radius: 5px; border: 1px solid #ddd;">
+  </a>
+
 </details>
 
 <details style="margin-bottom: 20px; border: 1px solid #e1e4e8; border-radius: 6px; padding: 10px;">
@@ -128,9 +179,24 @@ permalink: /work/
     <small>Aug 2024, team project</small>
   </summary>
   
-  <div style="padding-top: 10px;">
+    <p><b>Summary</b></p>
 
-  </div>
+    <ul><li> Selected for a 6-week RBC and York University fintech program focused on blockchain, digital assets, and practical applications of AI in financial services. </li>
+    <li>Worked in teams on two projects: evaluating viable blockchain use cases within Canada’s regulatory and crypto environment, and proposing how RBC could better serve and attract younger clients using emerging technology.</li>
+    <li>Led solution design and scope definition for my team’s final project, proposing a strategic partnership with a modern fintech (e.g. Wealthsimple) to complement traditional banking infrastructure and accelerate innovation.</li>
+    <li>Team placed 2nd; individually, I placed Top 5 overall for team leadership and communication; gained experience in product thinking, risk-aware innovation, and translating new technology into realistic business strategy.</li></ul>
+
+  <br>
+  <p><b>Our Midpoint and Final Presentations!</b></p>
+
+    <a href="{{ '/assets/images/fintech_midpoint_pres.png' | relative_url }}" target="_blank">
+        <img src="{{ '/assets/images/fintech_midpoint_pres.png' | relative_url }}" 
+            style="width: 100%; border-radius: 5px; border: 1px solid #ddd;">
+    </a>
+    <a href="{{ '/assets/images/fintech_final.png' | relative_url }}" target="_blank">
+        <img src="{{ '/assets/images/fintech_final.png' | relative_url }}" 
+            style="width: 100%; border-radius: 5px; border: 1px solid #ddd;">
+    </a>
 </details>
 
 <details style="margin-bottom: 20px; border: 1px solid #e1e4e8; border-radius: 6px; padding: 10px;">
