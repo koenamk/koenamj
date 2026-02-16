@@ -102,6 +102,7 @@ of the list, just including the ones I recommend.
 
 ### 2026
 - James Clavell, *Shogun*
+- Malala Yousafazi, *Finding My Way: A Memoir*
 
 ### 2025
 - Fyodor Dostoyevsky, *The Brothers Karamazov*

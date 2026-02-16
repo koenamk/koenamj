@@ -19,7 +19,7 @@ When I’m not studying, you can find me: playing tennis, reading, painting, try
 - Project Management at [GLOCAL](https://glocalfoundation.ca/)
 
 #### Currently Reading: 
-Strange Weather in Tokyo by Kawakami Hiromi. 
+"Finding My Way: A Memoir" by Malala Yousafzai
 
 ## Batsignal
 I love meeting new people, whether it is to chat about mutual interests, or to learn about whatever it is 
