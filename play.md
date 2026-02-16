@@ -89,12 +89,12 @@ permalink: /play/
 
 <nav class="sticky-nav">
   <span>Jump to:</span>
-  <a href="#books-section">Readings</a>
+  <a href="#books-section">Bookshelf</a>
   <a href="#travel-section">Travels</a>
   <a href="#notes-section">Notes</a>
 </nav>
 
-<h2 id="books-section">📚 Readings</h2>
+<h2 id="books-section">📚 Bookshelf</h2>
 
 Reading is a big part of my life. I started tracking the books I've read a few years ago, and I'll
 try and list them in the order I've read them in. For now, as I build out this website, I've only kept a small version
@@ -102,7 +102,7 @@ of the list, just including the ones I recommend.
 
 ### 2026
 - James Clavell, *Shogun*
-- Malala Yousafazi, *Finding My Way: A Memoir*
+- Malala Yousafzai, *Finding My Way: A Memoir*
 
 ### 2025
 - Fyodor Dostoyevsky, *The Brothers Karamazov*
