@@ -109,7 +109,7 @@ of the list, just including the ones I recommend.
 - Robert K. Massie, *Catherine the Great* (gifted by a friend)
 - Homer (Lombardo translation), *Iliad*
 - Seneca, *Letters from a Stoic*
-- Kenneth W. Ford, *The Quantum World – Quantum Physics for Everyone *
+- Kenneth W. Ford, *The Quantum World – Quantum Physics for Everyone*
 
 ### 2024
 - Viktor Frankl, *Man's Search for Meaning*
