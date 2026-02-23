@@ -91,7 +91,6 @@ permalink: /play/
   <span>Jump to:</span>
   <a href="#books-section">Bookshelf</a>
   <a href="#travel-section">Travels</a>
-  <a href="#notes-section">Notes</a>
 </nav>
 
 <h2 id="books-section">📚 Bookshelf</h2>
@@ -225,6 +224,7 @@ of the list, just including the ones I recommend.
 
 <h2 id="notes-section">📝 My Notes</h2>
 
+<!--
 ### A collection of my musings and some notes, for future reference.
 
 <div>
@@ -243,4 +243,4 @@ of the list, just including the ones I recommend.
         <li> Sharpen the saw. Take care of yourself physically, mentally, emotionally, and spiritually. You can't pour from an empty cup. </li>
         </ol>
     </details>
-</div>
+</div> --->
