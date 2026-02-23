@@ -56,7 +56,7 @@ exclude:
 
 exclude: [vendor]
 
-# Blog: /blog
+
 # Life: /life
 
 # Add general links to site pages here
@@ -64,10 +64,10 @@ links:
   # Resume: /assets/resume.pdf
   Work: /work/
   Play: /play/
+  Blog: /blog/
   Twitter: https://x.com/koenamukherjee_
   LinkedIn: https://www.linkedin.com/in/koenam/ 
   GitHub: https://github.com/koenamk 
-  
 
 # Add links for more focus here
 special_links:
