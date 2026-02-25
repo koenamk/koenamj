@@ -2,7 +2,7 @@
 layout: post
 title:  "Things I'd Like to Learn More About"
 date:  2026-02-22 18:19:32 -0500
-tags: [learning]
+tags: [personal]
 ---
 
 # 2026
