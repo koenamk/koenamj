@@ -222,8 +222,6 @@ of the list, just including the ones I recommend.
   </a>
 </div>
 
-<h2 id="notes-section">📝 My Notes</h2>
-
 <!--
 ### A collection of my musings and some notes, for future reference.
 
