@@ -87,7 +87,7 @@ take the Ropeway → Owakudani from here (there is also a place to soak your fee
 - Went to 1-chome to take pictures of the Tokyo Tower, Minato city. I'd seen a reel on Instagram about finding the best spot, and I had forgotten to save the address. So I wandered around 1-chome until I found the ideal spot. It was empty, and I got my favourite pictures of Tokyo!
 - Tried Starbucks! How did I completely miss this? It is VERY different to what I find in Canada, and I highly recommend trying it there! What I appreciated the most was the a smaller size than tall, and the variety of flavours! Had the Hojicha latte.
 
-# Experienced the joy of being a kid again 🍛
+# Experienced the joy of being a kid again
 ## Day 10
 - Walked to Ojima park, and played at the park with the other kids for more than an hour.
 - Was hungry, so my friend and I had ramen (YAY!). 
