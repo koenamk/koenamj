@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Japan Travels"
+title:  "Japan Travels 🇯🇵"
 date:  2026-01-15 15:02:13 -0500
 tags: [travel]
 ---
 
-# Tokyo Itinerary
+# In Tokyo 🗼
 ## Day 1
-- Took the train to Asakusa. Visited Senso-ji and Nakamise Shopping Street.
+- Took the train to Asakusa. Visited Senso-ji and Nakamise Shopping Street, where I tried dango for the first time.
 - Wandered the Ueno park, visited the Tokyo National Museum. Be mindful of the hours, and if you're 
 a student ( non-Japanese universities are accepted), you can buy the student tickets! 
 - Went to Sumida river boardwalk, walked around and took pictures near Skytree. Visited a cafe.
@@ -20,6 +20,7 @@ a student ( non-Japanese universities are accepted), you can buy the student tic
 - Took the train to Toyosu. So, a great way to see Tokyo's skyline and waterfront is to take the Yurikamome line to the last stop and ride back! (credits to my host's dad)
 - Got off the train at Odaiba for dinner at Aqua City mall with my friend and her family! Bought my first pair of sneakers from Onitsuka Tiger here!
 
+# Starting Kyoto from here! 🍡
 ## Day 3
 - Leaving for Kyoto, train for 10am. Booked the Nozomi line Shinkansen from Tokyo station to Kyoto station. Nozomi line skips over multiple stops in between, and is the train bound for Osaka. Keep some time on hand to navigate Tokyo station- its fairly easy, but I did need to use my Japanese to confirm I was on the right platform. Follow signs for Tōkaidō, Sanyō lines. Also, 'sen' means line, so you can use that word. To ask for the correct station/platform, say "(station name) iki (which means station) mate doyate ikimasuka?". Apologies for poor transliteration; open to correction.
 - Reached Kyoto for 1pm. My check-in was for 2pm. So, I walked to my hotel (Daiwa Roynet, I had a pleasant experience), dropped off my baggage, and walked to a ramen spot: Ramen Daiei. Highly recommend.
@@ -50,6 +51,7 @@ a student ( non-Japanese universities are accepted), you can buy the student tic
 - Last temple, which was a 20-min walk from my hotel, was Toji-michi. Explored the grounds, but didn't visit the pagoda because I had my 5pm train back to Tokyo. 
 - Plan for dinner was to visit Tokyo station's ramen street, but I didn't have the energy to do so.
 
+# Tokyo Again! 🚅
 ## Day 6
 - Meiji Jingu in Shibuya. Absolutely worth visiting- 10/10!! Loved walking around the area- it's hard to believe that you can find such
 serenity within a bustling city. 
@@ -61,6 +63,7 @@ serenity within a bustling city.
 - Went to Shinjuku, found a KFC to eat at- its tradition in Japan to eat at KFC on Christmas! Be sure to order your KFC online beforehand; they only offer chicken strips and some other items if you don't preorder.
 - Went bar-hunting in Kabukicho. Found a cool place called Bar PSY with a large selection of drinks. I had an Umeshu + Soda mix, and its was delicious!
 
+# To Hakone and Mt. Fuji 🗻
 ## Day 7
 - Train to Hakone. Went on the romance car for views and nice seats (had reserved that previously).
 - Hakone loop- start at Hakone-Yumoto station, Hakone Tozan Railway → Gōra (a very scenic trip and I highly recommend), Cable Car → Sōunzan,
@@ -75,6 +78,7 @@ take the Ropeway → Owakudani from here (there is also a place to soak your fee
 - If you have a day, on your journey back to Tokyo, I recommend stopping at Odawara. 
 - Went to Shinjuku (again), had some ramen (of course), and went back to Bar PSY (too tired to locate some new bar). 
 
+# Tokyo again 🍣
 ## Day 9
 - Went to Akihabara. Bought some JJK and Haikyuu merch. 
 - Had lunch at Sushiro (highly recommend).
@@ -83,10 +87,12 @@ take the Ropeway → Owakudani from here (there is also a place to soak your fee
 - Went to 1-chome to take pictures of the Tokyo Tower, Minato city. I'd seen a reel on Instagram about finding the best spot, and I had forgotten to save the address. So I wandered around 1-chome until I found the ideal spot. It was empty, and I got my favourite pictures of Tokyo!
 - Tried Starbucks! How did I completely miss this? It is VERY different to what I find in Canada, and I highly recommend trying it there! What I appreciated the most was the a smaller size than tall, and the variety of flavours! Had the Hojicha latte.
 
+# Experienced the joy of being a kid again 🍛
 ## Day 10
 - Walked to Ojima park, and played at the park with the other kids for more than an hour.
 - Was hungry, so my friend and I had ramen (YAY!). 
 - Flight back from Haneda airport. Be sure to be early and visit the deck, was flight-watching for about an hour and some. 
 
-## Day 11
+# Goodbye, Japan! 🛫
+## Day 11 
 - Missed Japan very much, and will visit again!
