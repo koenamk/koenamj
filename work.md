@@ -216,23 +216,27 @@ permalink: /work/
 </details>
 
 <details style="margin-bottom: 20px; border: 1px solid #e1e4e8; border-radius: 6px; padding: 10px;">
-  <summary style="cursor: pointer; font-weight: bold; font-size: 1.1em; color: #0366d6;">
+  <summary style="cursor: pointer; font-weight: bold; font-size: 1.1em;">
     Designing My Own Curriculum for English Tutoring
   </summary>
   
   <div style="padding-top: 10px;">
+  <p><b>Background</b></p>
 
-  * I tutored english to 3 middle-school-aged students, during which, the primary concerns I encountered were 
+  <p> I tutored english to 3 middle-school-aged students, during which, the primary concerns I encountered were 
   poor reading comprehension, weak analysis skills and an overall low interest in the subject. Upon further digging, I 
-  realised that the school curriculum relied on repetitive worksheets and overly generalised learning plans to satisfy broad policy requirements, and it left students feeling disengaged and struggling to develop analytical skills. This was certainly not helped by the general sentiment of STEM subjects holding higher importance. 
+  realised that the school curriculum relied on repetitive worksheets and overly generalised learning plans to satisfy broad policy requirements, and it left students feeling disengaged and struggling to develop analytical skills. This was certainly not helped by the general sentiment of STEM subjects holding higher importance. </p>
 
-  * I wanted to try something- and these students, who were exhausted with boring english curriculum, were willing to try something new as well. So I decided to implement what I learned from the book, *Visual Intelligence* by Amy E. Herman.
+  <p> I wanted to try something- and these students, who were exhausted with boring english curriculum, were willing to try something new as well. So I decided to implement what I learned from the book, *Visual Intelligence* by Amy E. Herman. </p>
 
-  * Every lesson, we would pick a piece of art, and spend some time to independently think about what the details we noticed. We started with general details like colour, shape, characters, lighting and setting, and slowly moved towards discussing themes and trying to understand what the artist was trying to convey. From here, we started to think about how we could design our writing to explain what we noticed. Paying attention to the nuances of the artwork, we could start to think about how sentence structure, grammar and vocabulary could help make our arguments read well.
+  <p><b>My Approach</b></p>
 
-  * I adapted lessons dynamically based on student comprehension rather than following a fixed standardized progression. By the end of 6 months, this new curriculum resulted in stronger engagement and faster improvement in reading comprehension and written expression among students! 
+  <p> Each lesson, we would pick a piece of art, and spend some time to independently think about what the details we noticed. We started with general details like colour, shape, characters, lighting and setting, and slowly moved towards discussing themes and trying to understand what the artist was trying to convey. From here, we started to think about how we could design our writing to explain what we noticed. Paying attention to the nuances of the artwork, we could start to think about how sentence structure, grammar and vocabulary could help make our arguments read well. </p>
 
-  * This was my first time experiencing joy as a teacher, and I found that I quite liked helping people find their interests in subjects. 
+  <p><b>The Result! 😁</b></p>
+  <p> I adapted lessons dynamically based on student comprehension rather than following a fixed standardized progression. By the end of 6 months, this new curriculum resulted in stronger engagement and faster improvement in reading comprehension and written expression among students! </p>
+
+  <p> This was my first time experiencing joy as a teacher, and I found that I quite liked helping people find their interests in subjects. </p>
 
   </div>
 </details>

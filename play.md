@@ -127,6 +127,8 @@ of the list, just including the ones I recommend.
 - George Orwell, *1984*
 - Susanna Clarke, *Piranesi*
 - Gabriel García Márquez, *100 Years of Solitude*
+- Amy E. Herman, *Visual Intelligence*
+- Ava Homa, *Daughters of Smoke and Fire*
 
 ### High school and earlier
 
@@ -134,6 +136,7 @@ of the list, just including the ones I recommend.
 - Amor Towles, *A Gentleman in Moscow*
 - Marjane Satrapi, *Persepolis*
 - Khaled Hosseini, *The Kite Runner*
+- Chimamanda Adichie, *The Thing Around Your Neck*
 
 <hr>
 
