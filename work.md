@@ -34,9 +34,13 @@ permalink: /work/
         <summary><b>Operational Risk Intern at <a href="https://www.rbc.com/about-rbc.html">RBC</a></b>
         <small>May 2025 - Aug 2025</small>
         </summary>
-        <br>
-    
-    </details>
+        <br><ul>
+        <li>Designed an internal tracking system to manage control assurance assessments across 100+ operational controls.</li>
+        <li>Created a centralized framework that improved visibility for reviewers and stakeholders during assurance cycles.</li>
+        <li>Improved a system for monitoring assessment status, ownership, and risk remediation progress, improving visibility for stakeholders.</li>
+        <li>Helped develop standardized procedures and documentation frameworks to reduce ambiguity in control testing and evidence collection.</li>
+        <li>Work adopted by team members to support consistent operational risk evaluations.</li>
+    </ul></details>
 </div>
 
 <div>
@@ -183,7 +187,8 @@ permalink: /work/
 
     <ul><li> Selected for a 6-week RBC and York University fintech program focused on blockchain, digital assets, and practical applications of AI in financial services. </li>
     <li>Worked in teams on two projects: evaluating viable blockchain use cases within Canada’s regulatory and crypto environment, and proposing how RBC could better serve and attract younger clients using emerging technology.</li>
-    <li>Led solution design and scope definition for my team’s final project, proposing a strategic partnership with a modern fintech (e.g. Wealthsimple) to complement traditional banking infrastructure and accelerate innovation.</li>
+    <li>Led solution design and scope definition for my team’s final project, proposing a strategic partnership with a modern fintech company to complement traditional banking infrastructure and accelerate innovation.</li>
+    <li>Outlined potential product features including portfolio allocation tools, custody considerations, and compliance-aware client onboarding for digital assets.</li>
     <li>Team placed 2nd; individually, I placed Top 5 overall for team leadership and communication; gained experience in product thinking, risk-aware innovation, and translating new technology into realistic business strategy.</li></ul>
 
   <br>
@@ -206,6 +211,28 @@ permalink: /work/
   </summary>
   
   <div style="padding-top: 10px;">
+
+  </div>
+</details>
+
+<details style="margin-bottom: 20px; border: 1px solid #e1e4e8; border-radius: 6px; padding: 10px;">
+  <summary style="cursor: pointer; font-weight: bold; font-size: 1.1em; color: #0366d6;">
+    Designing My Own Curriculum for English Tutoring
+  </summary>
+  
+  <div style="padding-top: 10px;">
+
+  * I tutored english to 3 middle-school-aged students, during which, the primary concerns I encountered were 
+  poor reading comprehension, weak analysis skills and an overall low interest in the subject. Upon further digging, I 
+  realised that the school curriculum relied on repetitive worksheets and overly generalised learning plans to satisfy broad policy requirements, and it left students feeling disengaged and struggling to develop analytical skills. This was certainly not helped by the general sentiment of STEM subjects holding higher importance. 
+
+  * I wanted to try something- and these students, who were exhausted with boring english curriculum, were willing to try something new as well. So I decided to implement what I learned from the book, *Visual Intelligence* by Amy E. Herman.
+
+  * Every lesson, we would pick a piece of art, and spend some time to independently think about what the details we noticed. We started with general details like colour, shape, characters, lighting and setting, and slowly moved towards discussing themes and trying to understand what the artist was trying to convey. From here, we started to think about how we could design our writing to explain what we noticed. Paying attention to the nuances of the artwork, we could start to think about how sentence structure, grammar and vocabulary could help make our arguments read well.
+
+  * I adapted lessons dynamically based on student comprehension rather than following a fixed standardized progression. By the end of 6 months, this new curriculum resulted in stronger engagement and faster improvement in reading comprehension and written expression among students! 
+
+  * This was my first time experiencing joy as a teacher, and I found that I quite liked helping people find their interests in subjects. 
 
   </div>
 </details>
