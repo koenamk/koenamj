@@ -9,7 +9,7 @@ ideas, and theories. I've lived in Dubai, Halifax, Toronto and Waterloo, and I'm
 data at [RBC](https://www.rbcinsurance.com/en-ca/about/). I'm interested in math, biology, history,
 and especially where these things collide. 
 
-When I’m not deciphering a formula, you can find me: playing tennis, reading, painting, or trying out a new ramen spot in Toronto. Visit my [Curius](https://curius.app/koena-m) page to see what I’m reading online!
+When I’m away from my desk, you can find me: playing tennis, reading, painting, or trying out a new ramen spot in Toronto. Visit my [Curius](https://curius.app/koena-m) page to see what I’m reading online!
 
 > <span style='text-decoration: underline solid red;'>“But once in a while the off thing happens</span>, <span style='background-color: #f9d5dd;'>Once in a while the dream comes true, And the whole pattern of life is altered,</span> <span style='background-color: #A7C7E7;'>Once in a while the moon turns blue.”</span> - W.H. Auden
 
@@ -19,7 +19,7 @@ When I’m not deciphering a formula, you can find me: playing tennis, reading, 
 - Project Management at [GLOCAL](https://glocalfoundation.ca/)
 
 #### Currently Reading: 
-"No Longer Human" by Osamu Dazai
+"Poisonwood Bible" by Barbara Kingsolver
 
 ## Batsignal
 I love meeting new people, whether it is to chat about mutual interests, or to learn about whatever it is 

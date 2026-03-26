@@ -100,8 +100,9 @@ try and list them in the order I've read them in. For now, as I build out this w
 of the list, just including the ones I recommend. 
 
 ### 2026
-- James Clavell, *Shogun*
+- Barbara Kingsolver, *Poisonwood Bible*
 - Malala Yousafzai, *Finding My Way: A Memoir*
+- James Clavell, *Shogun*
 
 ### 2025
 - Fyodor Dostoyevsky, *The Brothers Karamazov*
@@ -137,6 +138,7 @@ of the list, just including the ones I recommend.
 - Marjane Satrapi, *Persepolis*
 - Khaled Hosseini, *The Kite Runner*
 - Chimamanda Adichie, *The Thing Around Your Neck*
+- Agatha Christie, *The Labours of Hercules*
 
 <hr>
 
