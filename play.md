@@ -95,8 +95,10 @@ permalink: /play/
 
 <h2 id="books-section">📚 Bookshelf</h2>
 
-Reading is a big part of my life. I started tracking the books I've read a few years ago, and I'll
-try and list them in the order I've read them in. For now, as I build out this website, I've only kept a small version
+Reading is a big part of my life. I started tracking the 
+books I've read a few years ago, and I'll try and list 
+them in the order I've read them in. For now, as I build out 
+this website, I've only kept a small version
 of the list, just including the ones I recommend. 
 
 ### 2026
@@ -156,19 +158,22 @@ of the list, just including the ones I recommend.
     <span class="date">Dec 2025</span>
     <h3>Kyoto, Japan</h3>
     <p>Probably my favourite city in Japan—the mountains, shrines and history have my heart.
-    Fav shrines: Chion-in temple, Kiyomizu Dera; special mention: Hachi shrine, stumbled upon here.</p>
+    Fav shrines: Chion-in temple, Kiyomizu Dera; special mention: 
+    Hachi shrine, stumbled upon here.</p>
   </a>
 
   <a href="#" class="travel-card">
     <span class="date">Oct 2024</span>
     <h3>Montreal, Canada</h3>
-    <p>Maybe the best city in Canada. Loved the architecture—a blend of North America and France.</p>
+    <p>Maybe the best city in Canada. Loved the architecture—a blend of 
+    North America and France.</p>
   </a>
 
   <a href="#" class="travel-card">
     <span class="date">Aug 2024</span>
     <h3>Krakow, Poland</h3>
-    <p>Was not destroyed during WWII. Every street felt like it had a story. Fav area: Kazimierz.</p>
+    <p>Was not destroyed during WWII. Every street felt like it had a story. 
+    Fav area: Kazimierz.</p>
   </a>
 
   <a href="#" class="travel-card">
@@ -188,15 +193,16 @@ of the list, just including the ones I recommend.
   <a href="#" class="travel-card">
     <span class="date">Apr 2017</span>
     <h3>Tblisi, Georgia</h3>
-    <p>Located near the ancient Silk Road - explore ancient Asian cultures and its more-recent Soviet past. 
+    <p>Located near the ancient Silk Road - explore ancient Asian cultures and 
+    its more-recent Soviet past. 
     Georgia is also very famous for its wines!</p>
   </a>
 
   <a href="#" class="travel-card">
     <span class="date">Multiple</span>
     <h3>Kolkata, India</h3>
-    <p>A vibrant city, known for its culture and literature. 
-    Streets lined with bookstores and great street food!</p>
+    <p>A historic city, known for its culture and literature. Visit Park street
+    and try Puchkas on the roadside!</p>
   </a>
 
   <a href="#" class="travel-card">
@@ -223,7 +229,8 @@ of the list, just including the ones I recommend.
   <a href="#" class="travel-card">
     <span class="date">Multiple</span>
     <h3>Dubai, U.A.E.</h3>
-    <p>Ever-changing. Experienced glitz and the old Middle East feel. Probably biased, because I lived there.</p>
+    <p>Ever-changing. So much diversity, great South Asian food scene. 
+    Probably biased, because I grew up here.</p>
   </a>
 </div>
 
