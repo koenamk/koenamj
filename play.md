@@ -148,14 +148,12 @@ of the list, just including the ones I recommend.
 
 <div class="travel-grid">
   <a href="#" class="travel-card">
-    <span class="date">Dec 2025</span>
     <h3>Tokyo, Japan</h3>
     <p>Was never bored here—exiting every station felt like I was in a new world. 
     Fav areas: Shinjuku, Roppongi Hills, Ueno.</p>
   </a>
 
   <a href="#" class="travel-card">
-    <span class="date">Dec 2025</span>
     <h3>Kyoto, Japan</h3>
     <p>Probably my favourite city in Japan—the mountains, shrines and history have my heart.
     Fav shrines: Chion-in temple, Kiyomizu Dera; special mention: 
@@ -163,35 +161,30 @@ of the list, just including the ones I recommend.
   </a>
 
   <a href="#" class="travel-card">
-    <span class="date">Oct 2024</span>
     <h3>Montreal, Canada</h3>
     <p>Maybe the best city in Canada. Loved the architecture—a blend of 
     North America and France.</p>
   </a>
 
   <a href="#" class="travel-card">
-    <span class="date">Aug 2024</span>
     <h3>Krakow, Poland</h3>
     <p>Was not destroyed during WWII. Every street felt like it had a story. 
     Fav area: Kazimierz.</p>
   </a>
 
   <a href="#" class="travel-card">
-    <span class="date">Aug 2019</span>
     <h3>Yerevan, Armenia</h3>
     <p>Got a haircut here, too. The city is set against the backdrop of Mt. Ararat!
     Loved walking around Republic Square at night. Memorable restaurant: Sherep.</p>
   </a>
 
   <a href="#" class="travel-card">
-    <span class="date">Apr 2018</span>
     <h3>Baku, Azerbaijan</h3>
     <p>Will never forget walking around Icheri Sheher, and don’t forget to visit Ateshgah - 
     a fire temple meant for travellers on the Silk Road! Loved the kebabs!</p>
   </a>
 
   <a href="#" class="travel-card">
-    <span class="date">Apr 2017</span>
     <h3>Tblisi, Georgia</h3>
     <p>Located near the ancient Silk Road - explore ancient Asian cultures and 
     its more-recent Soviet past. 
@@ -199,35 +192,30 @@ of the list, just including the ones I recommend.
   </a>
 
   <a href="#" class="travel-card">
-    <span class="date">Multiple</span>
     <h3>Kolkata, India</h3>
     <p>A historic city, known for its culture and literature. Visit Park street
     and try Puchkas on the roadside!</p>
   </a>
 
   <a href="#" class="travel-card">
-    <span class="date">Aug 2018</span>
     <h3>Kathmandu, Nepal</h3>
     <p>A historic city, loved exploring the temples. 
     Try the momos on the street and visit Thamel Bazaar.</p>
   </a>
 
   <a href="#" class="travel-card">
-    <span class="date">Aug 2016</span>
     <h3>Singapore</h3>
     <p>A green, well-connected city. Loved the multicultural identity 
     and how it continues to build around it.</p>
   </a>
 
   <a href="#" class="travel-card">
-    <span class="date">Multiple</span>
     <h3>Shillong, India</h3>
     <p>India’s northeast is breathtaking. Located on the Eastern Himalayas’ foothills, 
     explore the state of Meghalaya. One of my fav places in India.</p>
   </a>
 
   <a href="#" class="travel-card">
-    <span class="date">Multiple</span>
     <h3>Dubai, U.A.E.</h3>
     <p>Ever-changing. So much diversity, great South Asian food scene. 
     Probably biased, because I grew up here.</p>
