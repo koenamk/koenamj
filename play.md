@@ -102,6 +102,8 @@ this website, I've only kept a small version
 of the list, just including the ones I recommend. 
 
 ### 2026
+- Paul Kalanithi, *When Breath Becomes Air*
+- Ursula Le Guin, *The Left Hand of Darkness*
 - Barbara Kingsolver, *Poisonwood Bible*
 - Malala Yousafzai, *Finding My Way: A Memoir*
 - James Clavell, *Shogun*

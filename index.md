@@ -20,7 +20,7 @@ or painting my new sketchbook. Visit my [Curius](https://curius.app/koena-m) pag
 - Project Management at [GLOCAL](https://glocalfoundation.ca/)
 
 #### Currently Reading: 
-"Left Hand of Darkness" by Ursula Le Guin
+"Burnout" by Emily Nagoski
 
 ## Batsignal
 I love meeting new people, whether it is to chat about mutual interests, or to learn about whatever it is 
