@@ -105,6 +105,7 @@ of the list, just including the ones I recommend.
 - Paul Kalanithi, *When Breath Becomes Air*
 - Ursula Le Guin, *The Left Hand of Darkness*
 - Barbara Kingsolver, *Poisonwood Bible*
+- Vincent Bevins, *The Jakarta Method*
 - Malala Yousafzai, *Finding My Way: A Memoir*
 - James Clavell, *Shogun*
 

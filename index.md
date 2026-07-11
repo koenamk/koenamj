@@ -20,7 +20,7 @@ or filling in my new sketchbook. Visit my [Curius](https://curius.app/koena-m) p
 - Project Management at [GLOCAL](https://glocalfoundation.ca/)
 
 #### Currently Reading: 
-"When Breath Becomes Air" by Paul Kalanithi
+"Che: A Revolutionary Life" by Jon Lee Anderson & José Hernandez
 
 ## Batsignal
 I love meeting new people, whether it is to chat about mutual interests, or to learn about whatever it is 
