@@ -20,7 +20,7 @@ or filling in my new sketchbook. Visit my [Curius](https://curius.app/koena-m) p
 - Project Management at [GLOCAL](https://glocalfoundation.ca/)
 
 #### Currently Reading: 
-"Che: A Revolutionary Life" by Jon Lee Anderson & José Hernandez
+"If Cats Disappeared from the World" by Genji Kawamura
 
 ## Batsignal
 I love meeting new people, whether it is to chat about mutual interests, or to learn about whatever it is 
