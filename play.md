@@ -97,9 +97,7 @@ permalink: /play/
 
 Reading is a big part of my life. I started tracking the 
 books I've read a few years ago, and I'll try and list 
-them in the order I've read them in. For now, as I build out 
-this website, I've only kept a small version
-of the list, just including the ones I recommend. 
+them in the order I've read them in. 
 
 ### 2026
 - Dorian Sukegawa, *Sweet Bean Paste*
