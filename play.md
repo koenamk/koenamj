@@ -102,6 +102,7 @@ this website, I've only kept a small version
 of the list, just including the ones I recommend. 
 
 ### 2026
+- Dorian Sukegawa, *Sweet Bean Paste*
 - Satoshi Yagisawa, *Days at the Morisaki Bookshop*
 - Jon Lee Anderson & José Hernandez, *Che: A Revolutionary Life*
 - Paul Kalanithi, *When Breath Becomes Air*
