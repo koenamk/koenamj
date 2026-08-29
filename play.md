@@ -153,33 +153,40 @@ them in the order I've read them in.
 
 <div class="travel-grid">
   <a href="#" class="travel-card">
+    <h3>New York City, U.S.A</h3>
+    <p>Brief words aren't enough to capture the vibrancy and history of this city.
+    Could've spent a few more days at the MET and Chinatown. Will be back.</p>
+  </a>
+
+  <a href="#" class="travel-card">
     <h3>Tokyo, Japan</h3>
-    <p>Was never bored here—exiting every station felt like I was in a new world. 
+    <p>Was never bored here - exiting every station felt like I was in a new world. 
     Fav areas: Shinjuku, Roppongi Hills, Ueno.</p>
   </a>
 
   <a href="#" class="travel-card">
     <h3>Kyoto, Japan</h3>
-    <p>Probably my favourite city in Japan—the mountains, shrines and history have my heart.
+    <p>Favourite city in Japan, owing to the mountains, architecture and history.
     Fav shrines: Chion-in temple, Kiyomizu Dera; special mention: 
     Hachi shrine, stumbled upon here.</p>
   </a>
 
   <a href="#" class="travel-card">
     <h3>Montreal, Canada</h3>
-    <p>Maybe the best city in Canada. Loved the architecture—a blend of 
-    North America and France.</p>
+    <p>A trip close to my heart because of friends.
+    Loved the architecture - a blend of North America and France.</p>
   </a>
 
   <a href="#" class="travel-card">
     <h3>Krakow, Poland</h3>
-    <p>Was not destroyed during WWII. Every street felt like it had a story. 
+    <p>Preserves old Poland since it wasn't destroyed during WWII. 
+    Every street felt like it had a story. 
     Fav area: Kazimierz.</p>
   </a>
 
   <a href="#" class="travel-card">
     <h3>Yerevan, Armenia</h3>
-    <p>Got a haircut here, too. The city is set against the backdrop of Mt. Ararat!
+    <p>The city is set against the backdrop of Mt. Ararat!
     Loved walking around Republic Square at night. Memorable restaurant: Sherep.</p>
   </a>
 
@@ -192,20 +199,22 @@ them in the order I've read them in.
   <a href="#" class="travel-card">
     <h3>Tblisi, Georgia</h3>
     <p>Located near the ancient Silk Road - explore ancient Asian cultures and 
-    its more-recent Soviet past. 
+    its recent Soviet past. 
     Georgia is also very famous for its wines!</p>
   </a>
 
   <a href="#" class="travel-card">
     <h3>Kolkata, India</h3>
-    <p>A historic city, known for its culture and literature. Visit Park street
-    and try Puchkas on the roadside!</p>
+    <p>A historic city, known for its culture, literature and history. Colonial capital 
+    of India, and a historic Chinatown (psst... this is the birthplace of 
+    Hakka-Indian cuisine). Visit Park street
+    and try street-side puchkas!</p>
   </a>
 
   <a href="#" class="travel-card">
     <h3>Kathmandu, Nepal</h3>
     <p>A historic city, loved exploring the temples. 
-    Try the momos on the street and visit Thamel Bazaar.</p>
+    Try a street-side plate of momos and visit Thamel Bazaar.</p>
   </a>
 
   <a href="#" class="travel-card">
@@ -216,14 +225,16 @@ them in the order I've read them in.
 
   <a href="#" class="travel-card">
     <h3>Shillong, India</h3>
-    <p>India’s northeast is breathtaking. Located on the Eastern Himalayas’ foothills, 
-    explore the state of Meghalaya. One of my fav places in India.</p>
+    <p>India’s northeast is breathtaking, and not spoken enough 
+    about. Located on the Eastern Himalayas’ foothills. 
+    One of my fav places in India.</p>
   </a>
 
   <a href="#" class="travel-card">
     <h3>Dubai, U.A.E.</h3>
-    <p>Ever-changing. So much diversity, great South Asian food scene. 
-    Probably biased, because I grew up here.</p>
+    <p>Visit old Dubai (the souks and old sites), and try a shawarma (though not local).
+    Rich history which is closely tied to
+    the Indian subcontinent, and a unique window to the Middle East.</p>
   </a>
 </div>
 
