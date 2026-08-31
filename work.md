@@ -68,11 +68,6 @@ permalink: /work/
   - Big Takeaway: Basic demographics (age/position) are not useful for asset pricing. Valuation models require environmental and performance context to break through the "Superstar" distribution boundary.
   </p>
 
-  <a href="{{ '/assets/images/IMAGE_NAME.png' | relative_url }}" target="_blank">
-      <img src="{{ '/assets/images/IMAGE_NAME.png' | relative_url }}" 
-           style="width: 100%; border-radius: 5px; border: 1px solid #ddd;">
-  </a>
-
 </details>
 
 <details style="margin-bottom: 20px; border: 1px solid #e1e4e8; border-radius: 6px; padding: 10px;">
