@@ -56,6 +56,26 @@ permalink: /work/
 ### For the Community and More…
 
 <details style="margin-bottom: 20px; border: 1px solid #e1e4e8; border-radius: 6px; padding: 10px;">
+  <summary style="cursor: pointer; font-weight: bold; font-size: 1.1em; color: #0366d6;">
+    Football Player Market Valuations- Predictive Modelling and Evaluation
+  </summary>
+  
+  <br>
+  <p>
+  ## Quick Summary
+  - The Goal: Build a machine learning pipeline to predict global football player market valuations using contemporary Transfermarkt records.
+  - The Core Tech Stack: Python 3.13, Pandas, NumPy, SciPy, Scikit-Learn (Pipelines, RandomForest), Seaborn, Matplotlib. 
+  - Big Takeaway: Basic demographics (age/position) are not useful for asset pricing. Valuation models require environmental and performance context to break through the "Superstar" distribution boundary.
+  </p>
+
+  <a href="{{ '/assets/images/IMAGE_NAME.png' | relative_url }}" target="_blank">
+      <img src="{{ '/assets/images/IMAGE_NAME.png' | relative_url }}" 
+           style="width: 100%; border-radius: 5px; border: 1px solid #ddd;">
+  </a>
+
+</details>
+
+<details style="margin-bottom: 20px; border: 1px solid #e1e4e8; border-radius: 6px; padding: 10px;">
   <summary style="cursor: pointer; font-weight: bold; font-size: 1.1em;">
     The Human Library, UWaterloo Version
     <small>May 2025, associated with being a Connection Lead</small>
