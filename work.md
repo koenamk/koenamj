@@ -57,15 +57,17 @@ permalink: /work/
 
 <details style="margin-bottom: 20px; border: 1px solid #e1e4e8; border-radius: 6px; padding: 10px;">
   <summary style="cursor: pointer; font-weight: bold; font-size: 1.1em;">
-    Football Player Market Valuations- Predictive Modelling and Evaluation
+    Football Player Market Valuations: Prediction & Modelling
   </summary>
   
   <div style="padding-top: 10px;">
+
   <p><b> Quick Summary </p></b>
   <ul><li> <b>The Goal:</b> Build a machine learning pipeline to predict global football player market valuations using contemporary Transfermarkt records.
 
   <li> The Core Tech Stack: Python 3.13, Pandas, NumPy, SciPy, Scikit-Learn (Pipelines, RandomForest), Seaborn, Matplotlib. </li>
   <li> Big Takeaway: Basic demographics (age/position) are not useful for asset pricing. Valuation models require environmental and performance context to break through the "Superstar" distribution boundary. </li>
+
   </div>
 </details>
 
