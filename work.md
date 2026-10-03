@@ -55,7 +55,7 @@ permalink: /work/
 
 ### For the Community and More…
 
-<details style="margin-bottom: 20px; border: 1px solid #e1e4e8; border-radius: 6px; padding: 10px;">
+<details markdown="1" style="margin-bottom: 20px; border: 1px solid #e1e4e8; border-radius: 6px; padding: 10px;">
   <summary style="cursor: pointer; font-weight: bold; font-size: 1.1em;">
     Football Player Market Valuations: Prediction & Modelling
   </summary>
@@ -70,7 +70,7 @@ permalink: /work/
   </div>
 </details>
 
-<details style="margin-bottom: 20px; border: 1px solid #e1e4e8; border-radius: 6px; padding: 10px;">
+<details markdown="1" style="margin-bottom: 20px; border: 1px solid #e1e4e8; border-radius: 6px; padding: 10px;">
   <summary style="cursor: pointer; font-weight: bold; font-size: 1.1em;">
     The Human Library, UWaterloo Version
     <small>May 2025, associated with being a Connection Lead</small>
@@ -105,7 +105,7 @@ permalink: /work/
 </details>
 
 
-<details style="margin-bottom: 20px; border: 1px solid #e1e4e8; border-radius: 6px; padding: 10px;">
+<details markdown="1" style="margin-bottom: 20px; border: 1px solid #e1e4e8; border-radius: 6px; padding: 10px;">
   <summary style="cursor: pointer; font-weight: bold; font-size: 1.1em;">
     Intro. to Quantum Physics
     <small>Winter 2025</small>
@@ -129,7 +129,7 @@ permalink: /work/
   </div>
 </details>
 
-<details style="margin-bottom: 20px; border: 1px solid #e1e4e8; border-radius: 6px; padding: 10px;">
+<details markdown="1" style="margin-bottom: 20px; border: 1px solid #e1e4e8; border-radius: 6px; padding: 10px;">
   <summary style="cursor: pointer; font-weight: bold; font-size: 1.1em;">
     PCOSight
     <small>Oct 2024, team project</small>
@@ -166,7 +166,7 @@ permalink: /work/
   </div>
 </details>
 
-<details style="margin-bottom: 20px; border: 1px solid #e1e4e8; border-radius: 6px; padding: 10px;">
+<details markdown="1" style="margin-bottom: 20px; border: 1px solid #e1e4e8; border-radius: 6px; padding: 10px;">
   <summary style="cursor: pointer; font-weight: bold; font-size: 1.1em;">
     AI and Ethics: An Exploration
     <small>Sep 2024, associated with being a Connection Lead</small>
@@ -194,7 +194,7 @@ permalink: /work/
 
 </details>
 
-<details style="margin-bottom: 20px; border: 1px solid #e1e4e8; border-radius: 6px; padding: 10px;">
+<details markdown="1" style="margin-bottom: 20px; border: 1px solid #e1e4e8; border-radius: 6px; padding: 10px;">
   <summary style="cursor: pointer; font-weight: bold; font-size: 1.1em;">
     Fintech and Rise of Digital Assets with RBC 
     <small>Aug 2024, team project</small>
@@ -221,7 +221,7 @@ permalink: /work/
     </a>
 </details>
 
-<details style="margin-bottom: 20px; border: 1px solid #e1e4e8; border-radius: 6px; padding: 10px;">
+<details markdown="1" style="margin-bottom: 20px; border: 1px solid #e1e4e8; border-radius: 6px; padding: 10px;">
   <summary style="cursor: pointer; font-weight: bold; font-size: 1.1em;">
     Ball Kid at <a href="https://dubaidutyfreetennischampionships.com/">Dubai Duty Free Tennis Championships</a>
     <small>Sep 2016 - Feb 2020</small>
@@ -232,7 +232,7 @@ permalink: /work/
   </div>
 </details>
 
-<details style="margin-bottom: 20px; border: 1px solid #e1e4e8; border-radius: 6px; padding: 10px;">
+<details markdown="1" style="margin-bottom: 20px; border: 1px solid #e1e4e8; border-radius: 6px; padding: 10px;">
   <summary style="cursor: pointer; font-weight: bold; font-size: 1.1em;">
     Designing My Own Curriculum for English Tutoring
   </summary>
@@ -258,7 +258,7 @@ permalink: /work/
   </div>
 </details>
 
-<!-- barebones <details style="margin-bottom: 20px; border: 1px solid #e1e4e8; border-radius: 6px; padding: 10px;">
+<!-- barebones <details markdown="1" style="margin-bottom: 20px; border: 1px solid #e1e4e8; border-radius: 6px; padding: 10px;">
   <summary style="cursor: pointer; font-weight: bold; font-size: 1.1em; color: #0366d6;">
     PROJECT_TITLE_HERE
   </summary>
@@ -275,7 +275,7 @@ permalink: /work/
 </details> -->
 
 <!-- avec image
-<details style="margin-bottom: 20px; border: 1px solid #e1e4e8; border-radius: 6px; padding: 10px;">
+<details markdown="1" style="margin-bottom: 20px; border: 1px solid #e1e4e8; border-radius: 6px; padding: 10px;">
   <summary style="cursor: pointer; font-weight: bold; font-size: 1.1em; color: #0366d6;">
     PROJECT_NAME_HERE
   </summary>
