@@ -100,6 +100,7 @@ books I've read a few years ago, and I'll try and list
 them in the order I've read them in. 
 
 ### 2026
+- Leo Tolstoy, *The Death of Ivan Ilyich*
 - Jacqueline Harpman, *I Who Have Never Know Men*
 - Dorian Sukegawa, *Sweet Bean Paste*
 - Satoshi Yagisawa, *Days at the Morisaki Bookshop*
